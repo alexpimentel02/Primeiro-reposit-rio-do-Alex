@@ -1,2 +1,2 @@
-# Primeiro-reposit-rio-do-Alex
+# Primeiro-reposit-do-Alex
 Desafios de projetos da Dio.me
